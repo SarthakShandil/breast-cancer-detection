@@ -1,0 +1,3 @@
+Dataset_BUSI_with_GT/
+__pycache__/
+*.pyc
